@@ -1,6 +1,12 @@
 #基于Python的新浪微博社交网络分析
 >具体内容请看代码注释
 
+##网络图
+<img src="http://ww2.sinaimg.cn/large/680bc840jw1eyw2j1a8njj21kw0u60xh.jpg"/>
+
+#时间图
+<img src="http://ww1.sinaimg.cn/large/680bc840jw1eyw2lnu177j20mk0h0764.jpg"/>
+
 ##项目步骤
 1. 爬取某个具体微博的转发数据；
 2. 将爬下来的转发数据用图进行可视化
