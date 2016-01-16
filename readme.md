@@ -9,20 +9,24 @@
 
 ##项目步骤
 1. 爬取某个具体微博的转发数据；
+<<<<<<< HEAD
 2. 将爬下来的转发数据用图进行可视化.
+=======
+2. 将爬下来的转发数据用图进行可视化。
+>>>>>>> 098b73826e293f5e2e0c0415c06aabc5ed902ffc
 
 ##基本模块
-主要分了模拟登陆模块（weibo_login.py、post_encode.py）、解析网页模块（get_weibo.py）、绘制图像模块（network_graph.py、time_graph.py）
+主要分了模拟登陆模块（weibo_login.py、post_encode.py）、解析网页模块（get_weibo.py）、绘制图像模块（network_graph.py、time_graph.py）。
 
 ##文件说明
-1. data.csv : 爬取下来的转发数据
-2. weibo_login.py、post_encode.py : 模拟登陆模块
-3. get_weibo.py ：解析网页模块
-4. network_graph.py ： 绘制网络图
-5. time_graph.py ： 绘制时间图
-6. network_graph.png : 网络图
-7. time_graph.png : 时间图
+1. data.csv : 爬取下来的转发数据；
+2. weibo_login.py、post_encode.py : 模拟登陆模块；
+3. get_weibo.py ：解析网页模块；
+4. network_graph.py ： 绘制网络图；
+5. time_graph.py ： 绘制时间图；
+6. network_graph.png : 网络图；
+7. time_graph.png : 时间图。
 
 ##参考博客
-1. http://www.cnblogs.com/houkai/p/3488468.html
-2. http://computational-thinking.farbox.com/blog/2014-08-03-study-osn-using-python#toc_6
+1. http://www.cnblogs.com/houkai/p/3488468.html；
+2. http://computational-thinking.farbox.com/blog/2014-08-03-study-osn-using-python#toc_6。
