@@ -9,7 +9,7 @@
 
 ##项目步骤
 1. 爬取某个具体微博的转发数据；
-2. 将爬下来的转发数据用图进行可视化
+2. 将爬下来的转发数据用图进行可视化.
 
 ##基本模块
 主要分了模拟登陆模块（weibo_login.py、post_encode.py）、解析网页模块（get_weibo.py）、绘制图像模块（network_graph.py、time_graph.py）
